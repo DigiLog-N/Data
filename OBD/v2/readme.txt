@@ -2,9 +2,9 @@ Input: dailyRoutes.csv from v1 folder
 Output: dailyRoutes.csv in V2 folder
 
 Process:
-Create another column class.
-Class 0 is the original data.
-Class 1 is the simulated data with added noise to the AIR_INTAKE_TEMP column.  The other fields stayed intact.
+Add a new column named, class.
+0 in class indicates the original data.
+1 in class indicates the simulated data with added noise to the AIR_INTAKE_TEMP column.  The other fields/columns stayed intact.
 
 Added random noise to AIR_INTAKE_TEMP using "RANDBETWEEN(15, 25)" in excel.
 
