@@ -16,3 +16,7 @@ TIMESTAMP,MARK,MODEL,CAR_YEAR,ENGINE_POWER,AUTOMATIC,VEHICLE_ID,BAROMETRIC_PRESS
 
 Notice the change in value in AIR_INTAKE_TEMP from 49 to 67.
 The last column is the Class.
+
+"dailyRoutes.arrow" contains all the data from "dailyRoutes.csv" saved in Arrow format
+- there are 100 data rows (records) per batch except for the last batch (which contains 28 rows)
+- total of 951 batches
