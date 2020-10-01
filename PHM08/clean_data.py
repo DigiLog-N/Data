@@ -1,6 +1,6 @@
 import sys
 
-# parse PMH08 training and testing data
+# parse PHM08 training and testing data
 
 # I wrote this quick script to process the text files, as trailing
 # whitespace was throwing off the bulk loads needed for testing.
