@@ -1,4 +1,7 @@
-# Data
+# Research and Development Datasets
+
+This repository includes data and scripts for potential use with DigiLog-N.
+Ultimately, only PHM08 was used for the Phase I effort. However, OBD and X-Plane data may be useful and interesting for other purposes.
 
 - OBD data originally from https://www.kaggle.com/cephasax/obdii-ds3?select=exp1_14drivers_14cars_dailyRoutes.csv
 
